@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Fadyazmy/yo-mamma.svg?branch=master)](https://travis-ci.org/Fadyazmy/yo-mamma)
 [![Coverage Status](https://coveralls.io/repos/github/Fadyazmy/yo-mamma/badge.svg?branch=master)](https://coveralls.io/github/Fadyazmy/yo-mamma?branch=master)
 
 Number Formatter (temp)
