@@ -1,12 +1,15 @@
 'use strict';
 
 var expect = require('chai').expect;
+var fs = require("fs");
+var jokes = fs.readFileSync("yo_mama_jokes.txt").toString().split("\n");
+
 var numFormatter = require('../index');
 
 describe('#numFormatter', function() {
-    it('should convert single digits', function() {
-        var result = numFormatter(1);
-        expect(result).to.equal('1');
+    it('retrieve the first joke', function() {
+        var result = jokes[0];
+        expect(result).to.equal('Yo mama is so fat that her bellybutton gets home 15 minutes before she does.');
     });
 
     it('should convert double digits', function() {
