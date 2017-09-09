@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/Fadyazmy/yo-mamma/badge.svg?branch=master)](https://coveralls.io/github/Fadyazmy/yo-mamma?branch=master)
+
 Number Formatter (temp)
 =========
 
