@@ -1,0 +1,23 @@
+{
+  "name": "yo_mama",
+  "version": "0.1.0",
+  "description": "jokes and insults to yo mama",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fadyazmy/yo-mamma.git"
+  },
+  "author": "Fady Azmy <fadood@live.co.uk> (https://fadyazmy.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fadyazmy/yo-mamma/issues"
+  },
+  "homepage": "https://github.com/Fadyazmy/yo-mamma#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
