@@ -1,6 +1,6 @@
 {
   "name": "yo_mama",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "jokes and insults to yo mama",
   "main": "index.js",
   "scripts": {
