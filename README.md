@@ -1,4 +1,4 @@
-Number Formatter
+Number Formatter (temp)
 =========
 
 A small library that adds commas to numbers
