@@ -2,7 +2,7 @@
 
 var expect = require('chai').expect;
 var fs = require("fs");
-var jokes = fs.readFileSync("yo_mama_jokes.txt").toString().split("\n");
+var jokes = fs.readFileSync("../yo_mama_jokes.txt").toString().split("\n");
 
 var numFormatter = require('../index');
 
